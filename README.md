@@ -28,7 +28,7 @@ Step by step guide to becoming a modern frontend developer
 - [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
 - [x] GitHub: Working with Remote Repositories | Git Tutorials #13
 - [x] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
 - [x] Branching & Merging a Production Grade Project | Git Tutorials #16
 - [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
 - [x] Git Branching Workflow in Production | Git Tutorials #18
@@ -40,14 +40,14 @@ Step by step guide to becoming a modern frontend developer
 
 - [x] Welcome and First Steps
 - [x] HTML Fundamentals
-- [ ] CSS Fundamentals
-- [ ] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
+- [x] CSS Fundamentals
+- [x] Layouts: Floats, Flexbox, and CSS Grid Fundamentals
 
 ## WEEK 03
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [ ] Web Design Rules and Framework
+- [x] Web Design Rules and Framework
 - [ ] Components and Layout Patterns
 
 ## WEEK 04
