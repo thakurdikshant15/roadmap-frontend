@@ -47,8 +47,8 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-- [x] Web Design Rules and Framework
-- [ ] Components and Layout Patterns
+- [Completed] Web Design Rules and Framework
+- [Completed upto table component] Components and Layout Patterns
 
 ## WEEK 04
 
