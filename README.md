@@ -110,7 +110,7 @@ Step by step guide to becoming a modern frontend developer
 
 - [x] Data Structures, Modern Operators and Strings
 - [x] A Closer Look at Functions
-- [ ] Working With Arrays
+- [x] Working With Arrays
 
 ## WEEK 11
 
