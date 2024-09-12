@@ -116,8 +116,8 @@ Step by step guide to becoming a modern frontend developer
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Numbers, Dates, Intl and Timers
-- [ ] Advanced DOM and Events
+- [x] Numbers, Dates, Intl and Timers
+- [x] Advanced DOM and Events
 - [ ] Object-Oriented Programming (OOP) With JavaScript
 
 ## WEEK 12
