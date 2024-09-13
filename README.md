@@ -118,7 +118,7 @@ Step by step guide to becoming a modern frontend developer
 
 - [x] Numbers, Dates, Intl and Timers
 - [x] Advanced DOM and Events
-- [ ] Object-Oriented Programming (OOP) With JavaScript
+- [x] Object-Oriented Programming (OOP) With JavaScript
 
 ## WEEK 12
 
