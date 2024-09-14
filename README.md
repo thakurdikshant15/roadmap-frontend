@@ -124,7 +124,7 @@ Step by step guide to becoming a modern frontend developer
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Mapty App: OOP, Geolocation, External Libraries, and More!
+- [x] Mapty App: OOP, Geolocation, External Libraries, and More!
 - [ ] Asynchronous JavaScript: Promises, Async/Await, and AJAX
 - [ ] Modern JavaScript Development: Modules, Tooling, and Functional
 
