@@ -126,7 +126,7 @@ Step by step guide to becoming a modern frontend developer
 
 - [x] Mapty App: OOP, Geolocation, External Libraries, and More!
 - [x] Asynchronous JavaScript: Promises, Async/Await, and AJAX
-- [ ] Modern JavaScript Development: Modules, Tooling, and Functional
+- [x] Modern JavaScript Development: Modules, Tooling, and Functional
 
 ## WEEK 13
 
