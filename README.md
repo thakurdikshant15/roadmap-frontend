@@ -138,7 +138,7 @@ Step by step guide to becoming a modern frontend developer
 
 ## WEEK 14
 
-### Practice Project - ToDo Application
+### [x] Practice Project - ToDo Application
 
 ## WEEK 15
 
