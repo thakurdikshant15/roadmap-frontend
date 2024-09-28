@@ -151,14 +151,14 @@ Step by step guide to becoming a modern frontend developer
 - [x] React State & Working with Events
 - [x] Rendering Lists & Conditional Content
 - [x] Styling React Components
-- [ ] Debugging React Apps
+- [x] Debugging React Apps
 - [ ] Time to Practice: A Complete Practice Project
 
 ## WEEK 16
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Diving Deeper: Working with Fragments, Portals & "Refs"
+- [x] Diving Deeper: Working with Fragments, Portals & "Refs"
 - [ ] Advanced: Handling Side Effects, Using Reducers & Using the Context API
 - [ ] Practice Project: Building a Food Order App
 - [ ] A Look Behind The Scenes Of React & Optimization Techniques
