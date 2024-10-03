@@ -159,7 +159,7 @@ Step by step guide to becoming a modern frontend developer
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 - [x] Diving Deeper: Working with Fragments, Portals & "Refs"
-- [ ] Advanced: Handling Side Effects, Using Reducers & Using the Context API
+- [x] Advanced: Handling Side Effects, Using Reducers & Using the Context API
 - [ ] Practice Project: Building a Food Order App
 - [ ] A Look Behind The Scenes Of React & Optimization Techniques
 - [ ] An Alternative Way Of Building Components: Class-based Components
