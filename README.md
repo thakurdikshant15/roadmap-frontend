@@ -160,6 +160,8 @@ Step by step guide to becoming a modern frontend developer
 
 - [x] Diving Deeper: Working with Fragments, Portals & "Refs"
 - [x] Advanced: Handling Side Effects, Using Reducers & Using the Context API
+- [x] useEffect
+- [x] Quiz App
 - [ ] Practice Project: Building a Food Order App
 - [ ] A Look Behind The Scenes Of React & Optimization Techniques
 - [ ] An Alternative Way Of Building Components: Class-based Components
