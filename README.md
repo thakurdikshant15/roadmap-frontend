@@ -162,7 +162,7 @@ Step by step guide to becoming a modern frontend developer
 - [x] Advanced: Handling Side Effects, Using Reducers & Using the Context API
 - [x] useEffect
 - [x] Quiz App
-- [ ] Practice Project: Building a Food Order App
+- [x] Practice Project: Building a Food Order App
 - [x] A Look Behind The Scenes Of React & Optimization Techniques
 - [ ] An Alternative Way Of Building Components: Class-based Components
 - [x] Sending Http Requests (e.g. Connecting to a Database)
