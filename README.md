@@ -168,13 +168,13 @@ Step by step guide to becoming a modern frontend developer
 - [x] Sending Http Requests (e.g. Connecting to a Database)
 - [x] Building Custom React Hooks
 - [x] Working with Forms & User Input
-- [ ] Practice Project: Adding Http & Forms To The Food Order App
+- [x] Practice Project: Adding Http & Forms To The Food Order App
 
 ## WEEK 17
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Diving into Redux (An Alternative To The Context API)
+- [Completed working with redux state correctly] Diving into Redux (An Alternative To The Context API)
 - [ ] Advanced Redux
 - [ ] Building a Multi-Page SPA with React Router
 - [ ] Adding Authentication To React Apps
