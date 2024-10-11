@@ -174,8 +174,8 @@ Step by step guide to becoming a modern frontend developer
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [Completed working with redux state correctly] Diving into Redux (An Alternative To The Context API)
-- [ ] Advanced Redux
+- [x] Diving into Redux (An Alternative To The Context API)
+- [Completed handling http states] Advanced Redux
 - [ ] Building a Multi-Page SPA with React Router
 - [ ] Adding Authentication To React Apps
 - [ ] Deploying React Apps
