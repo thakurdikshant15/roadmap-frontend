@@ -178,7 +178,7 @@ Step by step guide to becoming a modern frontend developer
 - [x] Advanced Redux
 - [x] Building a Multi-Page SPA with React Router
 - [x] Adding Authentication To React Apps
-- [ ] Deploying React Apps
+- [x] Deploying React Apps
 
 ## WEEK 18
 
@@ -196,12 +196,12 @@ Step by step guide to becoming a modern frontend developer
 
 ### [Material UI - The Complete Guide With React (2023) Edition](https://www.udemy.com/course/material-ui/)
 
-- [ ] Introduction
-- [ ] Setting Up Environment
-- [ ] Diving into Material UI Components One By One
-- [ ] Form Handling
-- [ ] Header Navigation Bar Components
-- [ ] Advance Components
+- [x] Introduction
+- [x] Setting Up Environment
+- [x] Diving into Material UI Components One By One
+- [x] Form Handling
+- [x] Header Navigation Bar Components
+- [x] Advance Components
 - [ ] Advanced Validations With React Hook Form
 - [ ] Data Grid
 - [ ] Advanced Data Grid With Project
